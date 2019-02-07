@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Implicit Intents Challenge</string>
+    <string name="store_edittext">Prima Rasa</string>
+    <string name="go_button">GOOOO</string>
+</resources>
